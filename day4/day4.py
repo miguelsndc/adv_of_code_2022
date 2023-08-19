@@ -43,4 +43,3 @@ for pair in pairs:
         count += 1
 
 print(count)
-cc
